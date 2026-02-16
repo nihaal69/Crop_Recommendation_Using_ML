@@ -39,7 +39,7 @@ Random Forest achieved the highest accuracy among the tested models.
 ## 📷 Screenshots
 
 ### Input Parameters Page
-![Input Page]([screenshots/parameters.png](https://github.com/nihaal69/Crop_Recommendation_Using_ML/blob/428795aaaf2fd99e55e8049d7b77f719c11b637b/project%20images/input.png))
+![Input Page](https://github.com/nihaal69/Crop_Recommendation_Using_ML/blob/428795aaaf2fd99e55e8049d7b77f719c11b637b/project%20images/input.png)
 
 ### Sample Input
 ![Sample Input]([screenshots/sample-input.png](https://github.com/nihaal69/Crop_Recommendation_Using_ML/blob/428795aaaf2fd99e55e8049d7b77f719c11b637b/project%20images/with%20parameters.png))
