@@ -42,19 +42,19 @@ Random Forest achieved the highest accuracy among the tested models.
 ![Input Page](https://github.com/nihaal69/Crop_Recommendation_Using_ML/blob/428795aaaf2fd99e55e8049d7b77f719c11b637b/project%20images/input.png)
 
 ### Sample Input
-![Sample Input]([screenshots/sample-input.png](https://github.com/nihaal69/Crop_Recommendation_Using_ML/blob/428795aaaf2fd99e55e8049d7b77f719c11b637b/project%20images/with%20parameters.png))
+![Sample Input](https://github.com/nihaal69/Crop_Recommendation_Using_ML/blob/428795aaaf2fd99e55e8049d7b77f719c11b637b/project%20images/with%20parameters.png)
 
 ### Prediction Result
-![Result]([screenshots/result.png](https://github.com/nihaal69/Crop_Recommendation_Using_ML/blob/428795aaaf2fd99e55e8049d7b77f719c11b637b/project%20images/Output.png))
+![Result](https://github.com/nihaal69/Crop_Recommendation_Using_ML/blob/428795aaaf2fd99e55e8049d7b77f719c11b637b/project%20images/Output.png)
 
 ### Crop Growing Guide
-![Guide]([screenshots/growing-guide.png](https://github.com/nihaal69/Crop_Recommendation_Using_ML/blob/428795aaaf2fd99e55e8049d7b77f719c11b637b/project%20images/growing%20guide.png))
+![Guide](https://github.com/nihaal69/Crop_Recommendation_Using_ML/blob/428795aaaf2fd99e55e8049d7b77f719c11b637b/project%20images/growing%20guide.png)
 
 ### About Us
-![About]([screenshots/about.png](https://github.com/nihaal69/Crop_Recommendation_Using_ML/blob/428795aaaf2fd99e55e8049d7b77f719c11b637b/project%20images/About%20Project.png))
+![About](https://github.com/nihaal69/Crop_Recommendation_Using_ML/blob/428795aaaf2fd99e55e8049d7b77f719c11b637b/project%20images/About%20Project.png)
 
 ### Query & Enquiry Page
-![Query Page]([screenshots/query-page.png](https://github.com/nihaal69/Crop_Recommendation_Using_ML/blob/428795aaaf2fd99e55e8049d7b77f719c11b637b/project%20images/Contact%20us.png))
+![Query Page](https://github.com/nihaal69/Crop_Recommendation_Using_ML/blob/428795aaaf2fd99e55e8049d7b77f719c11b637b/project%20images/Contact%20us.png)
 
 ---
 
